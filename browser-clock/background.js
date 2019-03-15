@@ -15,6 +15,7 @@ function getHoursImageData(hours) {
                    'sans-serif';            // Other
     context.textAlign = 'center';
     context.textBaseline = 'middle';
+    context.fillStyle = 'white';
     context.fillText(hours, size/2, size/3);
     return context.getImageData(0, 0, size, size);
   }
