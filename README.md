@@ -1,3 +1,5 @@
+优化 Browser Clock 在 chrome dark mode 下的显示
+
 chrome-extensions
 =================
 
